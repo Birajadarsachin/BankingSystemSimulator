@@ -17,22 +17,21 @@ Built using Core Java, OOP principles, collections, multithreading, and custom e
 
 ⚙️ Tech Stack
 
-Language: Java
+1. Language: Java
 
-IDE: IntelliJ IDEA
+2. IDE: IntelliJ IDEA
 
-Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Collections, Generics, Streams, Multithreading, Exception Handling
+3. Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Collections, Generics, Streams, Multithreading, Exception Handling
 
 🧩 How to Run
 
-Clone the repository
+1. Clone the repository
+   i. git clone <your_repo_url>
+   ii. cd BankingSystemSimulator
 
-git clone <your_repo_url>
-cd BankingSystemSimulator
 
+2.Open in IntelliJ IDEA
 
-Open in IntelliJ IDEA
-
-Run Main.java (in the app package)
+3. Run Main.java (in the app package)
 
 Follow the console menu instructions
