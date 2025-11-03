@@ -30,7 +30,7 @@ Built using Core Java, OOP principles, collections, multithreading, and custom e
    ii. cd BankingSystemSimulator
 
 
-2.Open in IntelliJ IDEA
+  2.Open in IntelliJ IDEA
 
 3. Run Main.java (in the app package)
 
