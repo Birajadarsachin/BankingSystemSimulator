@@ -1,9 +1,9 @@
-Banking System Simulator (Core Java & OOPs)
+**Banking System Simulator (Core Java & OOPs)**
 
 A modular Java console application that simulates real-world banking operations — including account creation, deposits, withdrawals, fund transfers, and balance inquiries.
 Built using Core Java, OOP principles, collections, multithreading, and custom exception handling.
 
-🚀 Features
+**🚀 Features**
 
 👤 Account Creation: Auto-generates unique account numbers.
 
@@ -17,7 +17,7 @@ Built using Core Java, OOP principles, collections, multithreading, and custom e
 
 🧱 Robust Exception Handling: Manages invalid inputs and runtime issues gracefully.
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
 
 Language: Java
 
@@ -25,7 +25,7 @@ IDE: IntelliJ IDEA
 
 Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Collections, Generics, Streams, Multithreading, Exception Handling
 
-🧩 How to Run
+**🧩 How to Run**
 
 Clone the repository
 
