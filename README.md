@@ -39,3 +39,20 @@ Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Collections, Gene
 4. Run Main.java (in the app package)
 
 5. Follow the console menu instructions
+
+---
+
+### **Thread Safety Verification**
+
+To ensure the system is **thread-safe**, a test class `TransactionSimulator.java` was used to simulate **concurrent deposits and withdrawals** on the same account using multiple threads.
+
+**What We Did:**
+- Two threads (`t1` and `t2`) performed deposits and withdrawals simultaneously.  
+- The `Account` class methods (`deposit` and `withdraw`) were marked as `synchronized`.
+
+** Outcome:**
+- The final balance remained consistent (`2500.0`), proving there were **no race conditions**.  
+- This verified that our synchronization logic works correctly under multithreaded access.
+
+
+
