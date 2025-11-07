@@ -30,11 +30,12 @@ Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Collections, Gene
 1. Clone the repository
 
     a. git clone https://github.com/Birajadarsachin/BankingSystemSimulator
-    b. cd BankingSystemSimulator
+
+   b. cd BankingSystemSimulator
 
 
-2. Open in IntelliJ IDEA or any IDE
+3. Open in IntelliJ IDEA or any IDE
 
-3. Run Main.java (in the app package)
+4. Run Main.java (in the app package)
 
-4. Follow the console menu instructions
+5. Follow the console menu instructions
