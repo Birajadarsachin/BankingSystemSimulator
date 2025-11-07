@@ -29,7 +29,7 @@ Concepts Used: OOP (Encapsulation, Inheritance, Polymorphism), Collections, Gene
 
 1. Clone the repository
 
-    a. git clone [<your_repo_url>](https://github.com/Birajadarsachin/BankingSystemSimulator)
+    a. git clone https://github.com/Birajadarsachin/BankingSystemSimulator
     b. cd BankingSystemSimulator
 
 
